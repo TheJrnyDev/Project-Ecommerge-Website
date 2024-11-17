@@ -1,0 +1,8 @@
+@font-face {
+    font-family: panda;
+    src: url('./fonts/Panda/PandaThin.ttf');
+  }
+
+* {
+    font-family: panda;
+}
