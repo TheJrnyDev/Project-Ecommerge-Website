@@ -1,4 +1,4 @@
-# aaposhop
+# Project for education in Fullstack (Vue.js and Express.js)
 
 ## Project setup
 ```
